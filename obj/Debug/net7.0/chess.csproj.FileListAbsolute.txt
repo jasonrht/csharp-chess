@@ -1,0 +1,15 @@
+/Users/Jason/Desktop/csharp/chess/bin/Debug/net7.0/chess
+/Users/Jason/Desktop/csharp/chess/bin/Debug/net7.0/chess.deps.json
+/Users/Jason/Desktop/csharp/chess/bin/Debug/net7.0/chess.runtimeconfig.json
+/Users/Jason/Desktop/csharp/chess/bin/Debug/net7.0/chess.dll
+/Users/Jason/Desktop/csharp/chess/bin/Debug/net7.0/chess.pdb
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/chess.csproj.AssemblyReference.cache
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/chess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/chess.AssemblyInfoInputs.cache
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/chess.AssemblyInfo.cs
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/chess.csproj.CoreCompileInputs.cache
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/chess.dll
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/refint/chess.dll
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/chess.pdb
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/chess.genruntimeconfig.cache
+/Users/Jason/Desktop/csharp/chess/obj/Debug/net7.0/ref/chess.dll
